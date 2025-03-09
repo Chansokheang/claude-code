@@ -24,6 +24,9 @@ yarn-error.log*
 # Cache directories
 .cache
 /.cache
+**/.cache
+*.pack
+**/*.pack
 
 # Database files
 *.db
