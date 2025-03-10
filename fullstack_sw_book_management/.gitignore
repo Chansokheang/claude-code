@@ -1,0 +1,38 @@
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/app/__pycache__/
+backend/app/crud/__pycache__/
+backend/app/db/__pycache__/
+backend/app/models/__pycache__/
+backend/app/routers/__pycache__/
+backend/app/schemas/__pycache__/
+backend/app/utils/__pycache__/
+backend/*.log
+backend/*.pid
+backend/*.db
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.pnp
+frontend/.pnp.js
+frontend/coverage/
+frontend/.DS_Store
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/*.log
+frontend/*.pid
+
+# Misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
